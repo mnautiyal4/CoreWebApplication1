@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - 3D Cards Flip</title>
+  <link rel="stylesheet" href="style.css">
+ </head>
+<body>
+<!-- partial:index.partial.html -->
+<button class="card">
+  <span class="wrapper"><span class="content">
+      <span class="face back"></span>
+      <span class="face front"></span>
+    </span>
+  </span>
+</button>
+<button class="card">
+  <span class="wrapper"><span class="content">
+      <span class="face back"></span>
+      <span class="face front"></span>
+    </span>
+  </span>
+</button>
+<button class="card">
+  <span class="wrapper"><span class="content">
+      <span class="face back"></span>
+      <span class="face front"></span>
+    </span>
+  </span>
+</button>
+<button class="card">
+  <span class="wrapper"><span class="content">
+      <span class="face back"></span>
+      <span class="face front"></span>
+    </span>
+  </span>
+</button>
+<button class="card"">
+  <span class="wrapper"><span class="content">
+      <span class="face back"></span>
+      <span class="face front"></span>
+    </span>
+  </span>
+</button>
+<button class="card"">
+  <span class="wrapper"><span class="content">
+      <span class="face back"></span>
+      <span class="face front"></span>
+    </span>
+  </span>
+</button>
+<button class="card"">
+  <span class="wrapper"><span class="content">
+      <span class="face back"></span>
+      <span class="face front"></span>
+    </span>
+  </span>
+</button>
+<button class="card"">
+  <span class="wrapper"><span class="content">
+      <span class="face back"></span>
+      <span class="face front"></span>
+    </span>
+  </span>
+</button>
+<button class="card">
+  <span class="wrapper"><span class="content">
+      <span class="face back"></span>
+      <span class="face front"></span>
+    </span>
+  </span>
+</button>
+<button class="card">
+  <span class="wrapper"><span class="content">
+      <span class="face back"></span>
+      <span class="face front"></span>
+    </span>
+  </span>
+</button>
+<button class="card">
+  <span class="wrapper"><span class="content">
+      <span class="face back"></span>
+      <span class="face front"></span>
+    </span>
+  </span>
+</button>
+<button class="card" onclick="this.classList.toggle('flipped'); flipcard();">
+  <span class="wrapper"><span class="content">
+      <span id="back" class="face back"></span>
+      <span id="front" class="face front"></span>
+    </span>
+  </span>
+</button>
+ <script>
+  function flipcard()
+  {
+	var cardnumber = Math.floor(Math.random() * 8) + 1;
+	var spanid = document.getElementById('front');
+	alert(cardnumber);
+	if(cardnumber.value == 1)
+		{
+		
+		spanid.background:url(1.gif) no-repeat top left;
+		};
+		
+		if(cardnumber == 2)
+		{
+		spanid.background:url(1.gif) no-repeat top left;
+		};
+		
+		if(cardnumber == 3)
+		{
+		spanid.background:url(1.gif) no-repeat top left;
+		};
+		
+ 
+  }
+  </script>
+<!-- partial -->
+ </body>
+</html>
