@@ -1,0 +1,198 @@
+1. Can you describe using STAR method a specific project where you led a team to prioritize user needs and requirements? What were the outcomes, and how did you ensure that user satisfaction was achieved?
+
+Situation:
+In my previous role as a Head of software development at Nomisma Solutions, we were working on a accounting suit/ERP so, the users enter their bills, receipts and bank statements details manually into the system, these entries play vital role in all the critical accounting reports. So, this process was very time consuming and error prone. This has come up as a road blocker in new customer signup and customer retention as competitiors already had released the solution.
+
+Task:
+The task was to develop or integrate an OCR solution which can scan bills, receipts and bank statements and post the entries into the systems. which ultimately increase new user signup and retention.
+
+Action:
+
+Research: To start, I initiated comprehensive research into the OCR solutions. This involved listing out the pros and cons of going with Inhouse bespoke solution development vs. integrating readymade ocr solutions.
+As a result of my research I convinced to go with readymade solutions.
+
+Next research was to select the best solution in terms of cost and accuracy. I studied AWS textract, dext Again i have done a cost-benifit analysis and finalised a solution which was promising 100% accuracy.
+
+Team: I assembled a cross-functional team comprising BSA, api developer and a tester. Collaboration was vital to ensure that all team members understood the importance of this feature and the challenges of collobarating with 3rd party team.
+
+Project management: i chose agile methodology to deliver this project, so, BSA recorded all the requirements in the ADO and we started sprint ceremonies. we aloso invited the project coordinator from the solution provider side. 
+we started the project and delivered it within 4 months
+
+Result:
+The outcomes of this project were highly positive:
+User, now, need to upload the bills/receipts and bank statement and rest of the job is done by the OCR solution.
+User signup increased by 20% and user retention was increased by 10%
+
+Feedback 
+We established an ongoing feedback loop with users through the in-app feedback mechanisms, allowing us to continue making iterative improvements.
+
+
+Lesson learnt: 1. Being flexible on choosing from in-house development and readymade solution can save time and money both.
+2. Fulfilling user's crtical requirement on time is the key to success
+
+
+----------------------------------------
+2. User requirements can sometimes conflict with technical constraints. Can you describe using STAR a situation where you successfully mediated between the desires of end-users and the technical limitations of a project?
+
+Situation:
+In my role as a Software Development head at a Nomisma Solution, I was tasked with overseeing the development of a reporting system with complex calculations for previous 10 years data. The challenge was that the end-users wanted these reports to be displayed within seconds, which put a significant strain on the platform's infrastructure and technical capabilities.
+
+Task:
+My task was to strike a balance between meeting the user requirements while working within the constraints of the existing technical infrastructure, which had limitations in terms of processing power.
+
+Action:
+
+Technical Assessment: I started by collaborating closely with our technical architects and engineers to assess the limitations of our infrastructure. We identified that the existing hardware and software stack could not support the desired level of bulk processing of data and complex calculations at the scale the users demanded.
+
+Team: I assembled a crossfunctional team of SQL developer, C# developer, and did the brainstorming sessions, after having couple of sessions we come up with a solution of creating a service which does all the calculations and post the calculated data in a table
+
+Project Management: We set load threshold for each report amd throughout the project, I maintained open and transparent communication with both the development team and the end-users. We regularly shared progress updates and demonstrated how the iterative releases were gradually aligning with user expectations.
+
+Result:
+
+The outcomes of this mediation between user requirements and technical constraints were as follows:
+
+The report were started to open within the set threshold, we were able to deliver the project within the technical constraint. User satisfaction increased as they saw tangible improvements with each release, and they understood the technical constraints we were addressing.
+we managed to strike a balance between user requirements and technical constraints. This allowed us to deliver a platform that met the critical needs of our users while laying the foundation for further enhancements and scaling to meet their evolving demands.
+
+feedback: feedback was positive and most of the critical rports started to load within threshold time
+
+Lesson Learnt: We should review the hardware infrastructure time to time and scale up when needed as sometime there may be a situation where we don't have option other than scaling up the infrasture.
+
+--------------------------------------
+Unforseen circumstances / provided oppurtunity to team member/ project not develivered on time
+
+Situation:
+We were planning the payroll new year changes we generally take 4-5 months for this project, we started it and after 2 months the key resource,to this project  team lead had resgined., 
+
+Task: 
+To make payroll module ready for the new year changes.
+
+Action:
+I had couple of sessions with a senior developer in the team who has potential to become new team lead, he has sound technical backgroud but never led a project, this was the oppurtunity for him to prove his capabilities, so, i let him lead the project 
+
+Project management: I scheduled the KT session, started looking into previous code chekins around new year changes, compiled a to-do checklist. helped hime wherever required
+
+Result: outcome was we were on the track and delivered the project
+
+feedback: feedback was positive and most of the critical reports started to load within seconds
+
+Lesson Learnt: We should have a plan B for key processes and key resources
+
+------------------------------------------
+
+Get the job done / enhance skill of a team member
+---------------------------------
+
+
+Situation:
+
+We, at Nomisma had a team of around 100 accountants and we have a SA module to calculate the income taxt and file the income tax return for our customers
+they mail the questionaaire on eamil then they feed in into the windows based application, so there was a need to rationalise this process.
+there was a strong need to migrate windows based application to a modern web based architecture, so that customer can fill the questinare thmeselves  
+
+The project had a tight deadline and significant technical challenges due to the need to maintain business continuity during the transition.
+
+Task:
+My task was to meticulously plan the migration, continuously monitor progress, and ensure the achievement of project milestones while minimizing disruptions to our operations.
+
+Action:
+
+Research and Comprehensive Planning: To "get the job done," I initiated a comprehensive planning phase. I collaborated closely with the DBAs, Developers and infrastructure teams and created a detailed migration plan. This plan included a thorough migatrion of front end ( I did a comrehensive reesearch on migration tool but none of them had a satisfactory results, so we decided it to write it from scratch)
+migration of data
+assessment of dependencies, 
+risk mitigation strategies
+timeline that aligned with business objectives.
+
+Team: I assembled a cross-functional team of windows appp developer, asp.net app developer, DBA, BSA and tester. Clear roles and responsibilities were defined to ensure accountability.
+
+Project Management: I have taken agile approach to devliver the project, epics / features / user stories were created in the ADO, started sprint ceremonies, had a daily standup and then we started functional testing, I emphasis the secure coding development pracetic during the development 
+
+Risk Mitigation: I identified potential risks early and developed contingency plans to address them. This proactive approach allowed us to tackle challenges swiftly, minimizing project delays and ensuring that we stayed on track.
+
+Communication: Open and transparent communication was vital. I maintained regular communication channels with stakeholders, both within the team and with business leaders. This ensured that everyone was aware of the project's status, challenges, and achievements.
+
+Result:
+
+The result of these planning, monitoring, and achievement strategies was a successful migration project:
+
+Disruptions to our daily operations were minimal, and the business continued to function effectively throughout the process.
+
+Our KPIs consistently met or exceeded targets, showcasing the project's progress and successful execution.
+
+Feedback:
+The project received positive feedback from both internal teams and stakeholders.
+
+Lesson learnt
+By focusing on meticulous planning, continuous monitoring, and proactive risk mitigation, we not only "got the job done" but also did so with excellence, achieving our goals efficiently and effectively.
+
+-------------------------------------------
+Swith to PLAN B
+
+Situation:
+In my role as a Software Engineering Lead at InnovateTech, we were tasked with developing a highly anticipated mobile app for bookkeeping. and our initial Plan A was to build a fully native app for both iOS and Android platforms to give user a rich native app experience and built in security features such as FACE ID.
+
+Task:
+My task was to lead the team in delivering a app for bookkeeping.
+
+Action:
+
+Detailed Planning (Plan A): We did the detailed reaserach and identified the features to be developed. we planned to roll it out project in phases.
+
+Team: I assembled a team of android native app developer, ios native app developer, api developer and a BSA
+
+Project management: We planned to deliver the project using agile approach, configured the ADO, recorded the epic/features/user stories started the sprint ceremonies.
+As development progressed, we faced unexpected technical challenges that were causing significant delays on both platforms. It became evident that we might not meet the deadline with the full native approach.
+
+Assessment and Contingency Planning: In response to the challenges, I called for an emergency meeting with the development team and stakeholders. We conducted a technical assessment and realized that the delays were primarily due to the complexity of building two separate native apps simultaneously.
+
+Switching to Plan B: To "get the job done" within the timeline, we decided to pivot to Plan B. This involved transitioning to a cross-platform development framework that would allow us to share a significant portion of the codebase between iOS and Android, expediting development.
+
+Team Mobilization: We immediately mobilized the team to adapt to the new framework. We redefined roles and tasks, and we started working on "learn as ou work" APProach. Daily stand-up meetings ensured everyone was aligned and focused on achieving the event goals.
+
+Result:
+
+The result of this adaptive approach was a successful app launch:
+
+Despite the initial challenges and the need to switch to Plan B, we delivered a high-quality cross-platform app. While some advanced native features were simplified to fit the new framework, the app maintained essential functionality and provided a positive user experience.
+
+Lesson learnt:
+Post-launch, we conducted a thorough retrospective to analyze the reasons behind the technical challenges and improve our planning processes for future projects.
+We should always be prepared for plan B, in case Plan A does not work
+we demonstrated the team's adaptability and problem-solving skills, ultimately ensuring the successful launch of the app in line with our event goals.
+
+-----------------------------------------------------
+
+Keep Improving
+
+1. creating "How to" assistance
+
+Situation:
+In my role as a app Engineering manager at BroadStone, I relased that the app support team is busy in handling the request where user lack "how to" knowledge, so, requirement was generated to decrease the load on app support  I recognized the potential of leveraging AI for this purpose.
+
+Task:
+My task was to explore opportunities to integrate AI into our software and create a "how to" virtual assistance.
+
+
+Action:
+
+research: I did a comprehensive research and found that GPT model can be customised for this purpose, on furhter research i foind that there is a tool "langchain" thta can be used to customise the GPT responses.
+
+Team: I scheduled a session with a developer who was very keen to do something with the AI initiated a cross-functional brainstorming session involving developers, app support team to identify potential AI use cases. 
+
+Collaboration and Skill Development (Collaborate): Recognizing that AI required specialized expertise, I facilitated collaboration with external AI experts and encouraged team members to upskill in AI technologies. We organized training sessions, workshops, and webinars to build a foundation in AI concepts and tools.
+
+I searched some tutorial and courses on this use case and provided to the developer,
+
+Result: The AI powered "How to" assistance has decreased the load on app support team by 10%
+
+Feedback: Feedback was positive and I still investing time in it to improve it furhter.
+
+Lesson Learnt: 1. If we provide the required resoures and support to the team meber they can break the boundaries of their knowledge.
+2. AI is the future of software industry.
+
+
+2. using google copilot  
+
+
+
