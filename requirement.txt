@@ -194,5 +194,62 @@ Lesson Learnt: 1. If we provide the required resoures and support to the team me
 
 2. using google copilot  
 
+------------------------------------
+collaborate teams with different time zone
+
+- Establish a communication channel - e.g. MsTeams
+- Identify overlapping working hours to coomunicate in real time
+- set time boundaries for expecting response and sending urgent message 
+- record all meetings and create a centralize location to store all recordings and meeting notes and share it with all team members.
+- If possible, rotate the timing of meetings to accommodate different time zones fairly. 
+- Plan projects with time zone differences in mind. Build in extra time for handovers and ensure that critical tasks are not dependent on a single time zone.
+cotre
+
+
+member matters / user requirements / user centric approach 						-> ocr project
+delivered requirement within technical constraint 							-> reporting module for 5 years reports
+Unforseen circumstances / provided oppurtunity to team member/ project not develivered on time		-> payroll project new year changes
+Get the job done / enhance skill of a team member							-> windows questionaire app to web app
+Plan B													-> Mobile app for bookkeeping
+Creativity / New Idea / keep improving									-> AI How to assistance and google copilot 
+Collaboration												-> client facing portal rebranding
+Inclusion												-> database deployment tool
+what would i do differently										-> energy billing software
+
+In my role as a........... a new business request was arrived for...........
+
+I was assigned the responsibility of.............
+
+I started....
+
+The outcome was...........
+
+---------------------
+Risk analysis - energy billing 
+	- every bill should be generated as per regulation
+	- every bill 
+mitigation 
+	Data Security (Encryption / Access control)
+	Data Accuracy (Automated process for verification and flag discrepencies)
+	Billing Anomalies (Process for verification of bill for any anamoly)
+	Monitoring and alerting
+
+---------------------
+
+Juggling priorities
+
+there are various methodolgy which i employ
+for example 
+1. MOSCOW model
+2. Important - Urgent model
+
+Moscow model - I differentiate the task on the basis of Must have done / should have done and could have done
+
+Important - Urgent model
+I worked out an important/urgent scale for rating tasks so that it is clear what takes the highest priority. If something is both important and urgent, it gets highest priority. Important but not urgent is next and urgent but not important is next, then not important and not urgent is last, Sometimes there may be a task which is not urgenta and not important for me but there may be a task for my team member which is dependent on my task, so in that case also i give this task a higest rank.
+
+and then on the basis of this i create my daily to-do list
+
+
 
 
