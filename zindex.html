@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Viewer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="toolbar">
+        <input type="file" id="fileInput" accept="application/pdf">
+        <button id="prevPage" disabled>Previous</button>
+        <button id="nextPage" disabled>Next</button>
+        <input type="number" id="pageNumber" min="1" value="1" disabled>
+        <span id="pageCount">/ 1</span>
+        <button id="zoomIn" disabled>Zoom In</button>
+        <button id="zoomOut" disabled>Zoom Out</button>
+        <button id="download" disabled>Download</button>
+        <input type="text" id="searchText" placeholder="Search" disabled>
+        <button id="searchButton" disabled>Search</button>
+    </div>
+    <div id="pdfViewerContainer">
+        <canvas id="pdfViewer"></canvas>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.worker.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
