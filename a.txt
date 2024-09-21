@@ -1,37 +1,29 @@
-Solutions
-1. Two different difnition of KPemp
+Manager Review
+End of Year Review (against objectives)
+Mukesh has had a very strong year. In regard to his objectives, all have been achieved where this was possible. Some objectives are ongoing due to the nature and volume of the work involved and, in those cases, excellent progress has been made. From where we were at the start of FY24 to where we are now, the changes that Mukesh has implemented are huge, and have had a significant positive impact. We now have a much more structured, industry standard approach to development, following proven methodologies.
 
-a. Evolution of an employee’s and organisation’s Knowledge Profile (KP) over a certain duration:
+The implementation of agile processes and software development best practices have not only allowed us to pass our audit for ISO, but have also helped to engage and focus the members of the team and allowed them to grow as developers. The ease with which these changes have been embraced are testament to Mukesh's approach; thorough, calm, hard working and diligent, and with an ability to explain technical detail to people of varying knowledge and experience.
 
-KPemp <- [U k/CYB]t
-Where : t = duration (in year/months - For example year x to y)
-
-b. Current validity and relevance of an employee's knowledge at a particular point in time:
-
-KPemp <- [U k/CYB]C
-
-Where:
-
-'C' = Currency of the knowledge, defined as follows:
-
-C = Validity Period Remaining / Total Validity Period
-
-Here, 'Validity Period Remaining' would be the time left before a certification, training or experience becomes outdated or irrelevant. 'Total Validity Period' is the entire span for which a certification, training or experience is considered valid or relevant.
-
-In this case, a value of 'C' closer to 1 would indicate that the knowledge is highly current (recently acquired or still very relevant), while a value closer to 0 would indicate that the knowledge is less current (acquired long ago or becoming less relevant).
-
-------------------------------------------------------------------------------
-
-2. Combine into one formula
-
-We need to represent the Knowledge Profile of an employee (KPemp), which includes the knowledge (k) from the CYBOK body of knowledge, the duration (t) of that knowledge, and the currency (C) of that knowledge.
-
-For each knowledge unit (k), there exists a duration (t) and a currency (C). We can represent this as a function F:
-
-F: K -> (T, C)
-
-Then, the Knowledge Profile of an employee (KPemp) can be represented as a set of all such functions for all knowledge units (k) in CYBOK:
-
-KPemp = { F(k) | k ∈ CYBOK }
-
-This way, for each knowledge unit in CYBOK, we have a corresponding pair (t, C) representing the duration and currency of that knowledge unit in the employee's knowledge profile.
+Mukesh is always willing to take on new tasks and is very self sufficient, but also knows when there is a need to question or involve other people.
+I think that Mukesh and I have a very good working relationship and I look forward to it continuing and developing over the coming year. He is a valuable member of the team and the wider business and will play in an important role as the business continues to grow and we look at ways of improving efficiencies and introducing new technologies as part of that growth.
+Highlights (what went well?)
+- huge improvements to software development practices, processes and change procedures
+- set up of production / test / staging environments is a significant step forward
+- introduction of Release Notes, Business Requirements etc. provide a much more rigid, structured and auditable approach to development
+- team members are more focused on development and therefore more engaged
+- willingness to take on multiple tasks and work self sufficiently
+- sharing knowledge with others across Service Management
+- ISO certification achieved
+Focus for next financial year
+- continue to drive software development best practice, including implementation of sprints across all relevant applications, anonymisation and security testing
+- greater hands on involvement in software development
+- help to introduce newer technologies, particularly in our web developments
+- develop utilisation of IA across the team
+Technical expertise (knowledge & skills)
+- continue to maintain awareness of emerging technologies and how we can utilise in our developments
+- progress the use of AI in our developments
+- consider doing the Management Development Program
+Behaviour against Company Values
+Mukesh acts in accordance with the company values in all work that he does. His clients are internal, and he always displays a Client First attitude when approaching a piece of work, giving clear explanation to all, including those who don't have a technical background. The changes that he has made to our procedures demonstrate a Outcomes Driven and Forward Thinking approach, and he has run various training sessions across Service Management, because we are Collectively Confident..
+Merit Rating
+2 - Performance often exceeds expectations for the role
